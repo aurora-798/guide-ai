@@ -1,4 +1,4 @@
-package com.guide.aiguide;
+package com.guide;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

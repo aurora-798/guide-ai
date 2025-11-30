@@ -1,4 +1,4 @@
-package com.guide.aiguide;
+package com.guide;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
